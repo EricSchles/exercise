@@ -1,0 +1,60 @@
+Days of the week:
+
+On:
+
+* Monday, Tuesday
+* Thursday, Friday.
+
+Off:
+
+* Wednesday
+* Saturday
+* Sunday
+
+Exercise days schedule:
+
+assuming wake up at 6am:
+
+* 6am - 7am - Yoga, light weight training, cardio
+* 7am - 8am - get ready for day
+* 8am - 10am - work
+* 10am - 10:30am - first meal
+	* 900 calories
+* 10:30am - 2pm - work
+	* light sets throughout
+		* push ups - 5
+		* sit ups - 10
+		* jumping jacks - 20
+* 2pm - 2:30pm - second meal
+	* 900 calories
+* 2:30pm - 5pm - work
+	* full rest, light activity and chores only
+* 5pm - 6:30pm - HARD workout
+	* karate stretch
+	* medium to advanced weight training
+	* advanced cardio
+	* core work
+	* at least 1 mile run
+* 6:30pm - third meal
+	* 900 calories
+* back to work as needed
+
+Off days schedule:
+
+* 6am - 7am - Yoga, light weight training, cardio
+* 7am - 8am - get ready for day
+* 8am - 10am - work
+* 10am - 10:30am - first meal
+	* 900 calories
+* 10:30am - 2pm - work
+	* light sets throughout
+		* push ups - 5
+		* sit ups - 10
+		* jumping jacks - 20
+* 2pm - 2:30pm - second meal
+	* 900 calories
+* 2:30pm - 6pm - work
+	* full rest, light activity and chores only
+* 6:30pm - third meal
+	* 900 calories
+* back to work as needed
